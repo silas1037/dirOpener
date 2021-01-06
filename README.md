@@ -1,0 +1,2 @@
+# dirOpener
+Director
